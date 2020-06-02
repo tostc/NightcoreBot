@@ -1,0 +1,18 @@
+[submodule "externals/tiny-process-library"]
+	path = externals/tiny-process-library
+	url = https://gitlab.com/eidheim/tiny-process-library.git
+[submodule "externals/tinyformat"]
+	path = externals/tinyformat
+	url = https://github.com/c42f/tinyformat.git
+[submodule "externals/CJSON"]
+	path = externals/CJSON
+	url = https://github.com/tostc/CJSON.git
+[submodule "externals/CLog"]
+	path = externals/CLog
+	url = https://github.com/tostc/CLog.git
+[submodule "externals/dr_libs"]
+	path = externals/dr_libs
+	url = https://github.com/mackron/dr_libs.git
+[submodule "externals/sts"]
+	path = externals/sts
+	url = https://github.com/kieselsteini/sts.git

@@ -1,0 +1,8 @@
+{
+    "token": "YOUR-TOKEN",
+    "prefix": "!",
+    "ytdl": "youtube-dl",
+    "cache": "cache",
+    "debug": true,
+    "log": "log"
+}
